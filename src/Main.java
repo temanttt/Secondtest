@@ -9,5 +9,6 @@ public class Main {
         Arrays.sort(nums);
         System.out.println(Arrays.toString(nums));
         System.out.println("Added line 1");
+        System.out.println("Added line 2");
     }
 }
